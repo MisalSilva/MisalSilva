@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at sudamsithsilva@gmail.com and www.linkedin.com/in/misal-silva-903154267 
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
