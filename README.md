@@ -2,7 +2,8 @@
 - 👀 I’m interested in exploring new technologies and taking on challenges.
 - 🌱 I’m currently learning SQL, Object Oriented Programming.
 - 💞️ I’m looking to collaborate with any driven individual who is passionate about his/her work.
-- 📫 Reach me at sudamsithsilva@gmail.com and www.linkedin.com/in/misal-silva-903154267 
+- 📫 Reach me at sudamsithsilva@gmail.com and www.linkedin.com/in/misal-silva
+ 
 
 
 <!---
