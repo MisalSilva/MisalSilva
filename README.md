@@ -2,7 +2,7 @@
 )
 <h1 align="center">Hi 👋, I'm Misal Silva</h1>
 <h3 align="center">Computer Science Undergraduate</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b07221be-ccbf-4efb-9654-3ea785ba98dc">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misalsilva&label=Profile%20views&color=0e75b6&style=flat" alt="misalsilva" /> </p>
 
 - 🌱 I’m currently learning **Angular & React**
