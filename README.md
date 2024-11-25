@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b07221be-ccbf-4efb-9654-3ea785ba98dc">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misalsilva&label=Profile%20views&color=0e75b6&style=flat" alt="misalsilva" /> </p>
 
-- 🌱 I’m currently learning **Angular & React**
+- 🌱 I’m currently learning **React & Springboot **
 
 - 📫 How to reach me **sudamsithsilva@gmail.com and misal.20230183@iit.ac.lk**
 
