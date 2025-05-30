@@ -5,10 +5,9 @@
 <h3 align="center">Computer Science Undergraduate</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=misalsilva&label=Profile%20views&color=0e75b6&style=flat" alt="misalsilva" /> </p>
 
-<h4 align="center">🌱 I’m currently learning React.js & React Native </h4>
+<h4 align="center">🌱 I’m currently learning React.js & PHP </h4>
 
-<h4 align="center">📫 Reach me at <a href="sudamsithsilva@gmail.com">sudamsithsilva@gmail.com</a></h4>
-
+<h4 align="center">📫 Reach me at <i>sudamsithsilva@gmail.com</i></h4>
 <p align="center"> <img align="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b07221be-ccbf-4efb-9654-3ea785ba98dc"> </p>
 
 <h3 align="center">Support Me</h3>
